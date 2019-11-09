@@ -5,6 +5,6 @@ i = 0
      i = i + 1
 end
 end
-hello_t(["Tim", "Tom", "Jim"]) 
+hello_t(["Tim", "Tom", "Jim"])
 
 # call your method here!
